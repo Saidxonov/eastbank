@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 1110px;
+  margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav {
+  padding: 18px 0;
+  background-color: #ffffff;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+  list-style-type: none;
+}
+
+.menu li a {
+  font-size: 14px;
+  line-height: 16px;
+  color: #9597a5;
+  text-decoration: none;
+}
+
+.invite {
+  background: linear-gradient(
+    333deg,
+    rgba(42, 182, 217, 1) 11%,
+    rgba(51, 211, 94, 1) 55%
+  );
+  border: none;
+  color: #fff;
+  padding: 8px 36px 8px 33px;
+  border-radius: 50px;
+  font-family: Public Sans;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 28px;
+  cursor: pointer;
+}
+
+.headermain {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headercontend h1 {
+  font-size: 56px;
+  font-weight: 100;
+  line-height: 64px;
+  letter-spacing: -1px;
+  text-align: left;
+}
+
+.headercontend p {
+  font-size: 18px;
+  line-height: 28px;
+  text-align: left;
+  color: #b7b9c8;
+  margin: 24px 0px 36px 0px;
+}
+
+.headermain img {
+  width: 600px;
+}
+
+.ozgina {
+  margin-left: 70px;
+}
+
+.main {
+  margin-top: 60px;
+  margin-left: 70px;
+}
+
+.container {
+  width: 1110px;
+  margin: 0 auto;
+}
+
+.online {
+  margin-left: 70px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.ai {
+  padding-left: 40px;
+  padding-top: 60px;
+}
+
+.box2 {
+  padding-left: 730px;
+  padding-top: -300px;
+}
+
+.boxmain {
+  display: flex;
+}
+
+body {
+  font-family: "Public Sans", sans-serif;
+}
+
+.online p {
+  margin-left: 70px;
+}
+
+.box1 {
+  margin-left: 70px;
+}
+
+.box1 h6 {
+  color: #9597a5;
+}
+
+.box1 {
+  border: 1px solid white;
+}
+
+.box1 img {
+  border-radius: 20px;
+}
+
+h1 {
+  margin-left: 70px;
+}
+
+.container3 p {
+  margin-left: -20px;
+}
